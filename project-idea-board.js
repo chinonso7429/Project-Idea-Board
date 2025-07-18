@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 const projectStatus = {
   PENDING: {
@@ -66,5 +66,5 @@ class ProjectIdeaBoard {
 }
 
 
-** end of script.js **
+
 
